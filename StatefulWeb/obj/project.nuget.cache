@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "WS3Hv3j5oW4RkXK6MMmCJygYNNkO6U0r2d4/YFtlUUOF4KiH1kQX+hbE9Fu/mUstjo89iG5IsVGWvN8YatkCHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yashagarwal\\temp\\SF_Net6_MinimalHosting\\StatefulWeb\\StatefulWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yashagarwal\\.nuget\\packages\\microsoft.servicefabric\\8.2.1363\\microsoft.servicefabric.8.2.1363.nupkg.sha512",
+    "C:\\Users\\yashagarwal\\.nuget\\packages\\microsoft.servicefabric.aspnetcore.abstractions\\5.2.1363\\microsoft.servicefabric.aspnetcore.abstractions.5.2.1363.nupkg.sha512",
+    "C:\\Users\\yashagarwal\\.nuget\\packages\\microsoft.servicefabric.aspnetcore.kestrel\\5.2.1363\\microsoft.servicefabric.aspnetcore.kestrel.5.2.1363.nupkg.sha512",
+    "C:\\Users\\yashagarwal\\.nuget\\packages\\microsoft.servicefabric.data\\5.2.1363\\microsoft.servicefabric.data.5.2.1363.nupkg.sha512",
+    "C:\\Users\\yashagarwal\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\5.2.1363\\microsoft.servicefabric.data.extensions.5.2.1363.nupkg.sha512",
+    "C:\\Users\\yashagarwal\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\5.2.1363\\microsoft.servicefabric.data.interfaces.5.2.1363.nupkg.sha512",
+    "C:\\Users\\yashagarwal\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\5.2.1363\\microsoft.servicefabric.diagnostics.internal.5.2.1363.nupkg.sha512",
+    "C:\\Users\\yashagarwal\\.nuget\\packages\\microsoft.servicefabric.services\\5.2.1363\\microsoft.servicefabric.services.5.2.1363.nupkg.sha512",
+    "C:\\Users\\yashagarwal\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\yashagarwal\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.0\\microsoft.netcore.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\yashagarwal\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.0\\microsoft.aspnetcore.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\yashagarwal\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

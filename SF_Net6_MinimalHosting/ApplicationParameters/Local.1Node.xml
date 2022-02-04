@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Name="fabric:/SF_Net6_MinimalHosting" xmlns="http://schemas.microsoft.com/2011/01/fabric" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Parameters>
+    <Parameter Name="StatefulWeb_PartitionCount" Value="1" />
+    <Parameter Name="StatefulWeb_MinReplicaSetSize" Value="1" />
+    <Parameter Name="StatefulWeb_TargetReplicaSetSize" Value="1" />
+    <Parameter Name="StatefulWeb_ASPNETCORE_ENVIRONMENT" Value="Development" />
+    <Parameter Name="StatelessWeb_InstanceCount" Value="1" />
+    <Parameter Name="StatelessWeb_ASPNETCORE_ENVIRONMENT" Value="Development" />
+  </Parameters>
+</Application>
